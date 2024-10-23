@@ -1,1 +1,2 @@
 project Details:
+This is a new project
